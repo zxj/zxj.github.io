@@ -1,0 +1,11 @@
+pygments:true
+github:{
+        "versions":{
+                "jekyll":"1.5.1",
+                "ruby":"2.1.1"
+         },
+         "hostname":"github.com",
+         "pages_hostname":"github.io",
+         "owner_name":"zxj",
+         "owner_url":"https://github.com/zxj"
+}
