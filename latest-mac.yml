@@ -1,10 +1,12 @@
+
 version: 1.4.6
 files:
-  - url: http://f1.pipifish.com/wh-online/apps/teacher-pc/v1.4.6/PK%20fish%20for%20Teacher_1.4.6.zip
-    sha512: 5pO7dG6ULCzlOGNqfxGmVzdtUSZcbuMYJJ0IoPHCVbh+W0YPQ3eH0UTddibEav1USuqWRa2mCgDs+slBXvkXOg==
-  - url: http://f1.pipifish.com/wh-online/apps/teacher-pc/v1.4.6/PK%20fish%20for%20Teacher_1.4.6.dmg
-    sha512: pfuYAW8DPmOSEpnQaY2U9WdfGmr7iQLaKIt2ZD4/kUk7upFggtkEaX6cZvsAN8SOdPRCCfjX57+MuL06dAWlWg==
-    size: 107428123
+- url: http://f1.pipifish.com/wh-online/apps/teacher-pc/v1.4.6/PK%20fish%20for%20Teacher_1.4.6.zip
+  sha512: 5pO7dG6ULCzlOGNqfxGmVzdtUSZcbuMYJJ0IoPHCVbh+W0YPQ3eH0UTddibEav1USuqWRa2mCgDs+slBXvkXOg==
+  size: 107428123
+- url: http://f1.pipifish.com/wh-online/apps/teacher-pc/v1.4.6/PK%20fish%20for%20Teacher_1.4.6.dmg
+  sha512: pfuYAW8DPmOSEpnQaY2U9WdfGmr7iQLaKIt2ZD4/kUk7upFggtkEaX6cZvsAN8SOdPRCCfjX57+MuL06dAWlWg==
+  size: 107428123
 path: http://f1.pipifish.com/wh-online/apps/teacher-pc/v1.4.6/PK%20fish%20for%20Teacher_1.4.6.zip
 sha512: 5pO7dG6ULCzlOGNqfxGmVzdtUSZcbuMYJJ0IoPHCVbh+W0YPQ3eH0UTddibEav1USuqWRa2mCgDs+slBXvkXOg==
 releaseDate: 2018-11-24T10:35:33.776Z
